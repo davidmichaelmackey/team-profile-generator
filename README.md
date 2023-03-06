@@ -47,15 +47,15 @@ Follow these commands to run the command line application:
 
 ### Resources
 
-  [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-  [Inheritance & Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  [This](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
-  [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-  [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-  [Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
-  [Constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
-  [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
-  [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+  [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)<br>
+  [Inheritance & Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)<br>
+  [This](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)<br>
+  [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))<br>
+  [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)<br>
+  [Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)<br>
+  [Constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)<br>
+  [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development)<br>
+  [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)<br>
 
 ## Toolset
 
