@@ -2,22 +2,22 @@ const managerQuestions = [
   {
     name: "name",
     type: "input",
-    message: "Enter your name: ",
+    message: "Enter manager name: ",
   },
   {
     name: "id",
     type: "input",
-    message: "Give yourself an id: ",
+    message: "Enter manager id: ",
   },
   {
     name: "email",
     type: "input",
-    message: "Enter your email: ",
+    message: "Enter manager email: ",
   },
   {
     name: "officeNumber",
     type: "input",
-    message: "Enter your office number: ",
+    message: "Enter office number: ",
   },
 ];
 
