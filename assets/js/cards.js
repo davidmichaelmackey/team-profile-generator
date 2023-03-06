@@ -16,6 +16,7 @@ const generateTeam = (team) => {
             <p class="p-3 bg-light border rounded border-primary">Office Number: <a href="tel:${man.getOfficeNumber()}">${man.getOfficeNumber()}</a></p>
           </div>
         </div>
+        <!-- ! -->
   `;
   };
 
@@ -33,6 +34,7 @@ const generateTeam = (team) => {
           </p>
         </div>
       </div>
+      <!-- ! -->
 `;
   };
 
@@ -49,6 +51,7 @@ const generateTeam = (team) => {
           <p class="p-3 bg-light border rounded border-primary">School: ${intern.getSchool()}</p>
         </div>
       </div>
+      <!-- ! -->
 `;
   };
 
@@ -103,7 +106,6 @@ module.exports = (team) => {
       <!-- ! -->
         ${generateTeam(team)}
     </main>
-
 </body>
 
 </html>`;
