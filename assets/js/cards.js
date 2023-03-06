@@ -30,7 +30,7 @@ const generateTeam = (team) => {
         <div class="card-body">
           <p class="p-3 bg-light border rounded border-primary">ID: ${eng.getId()}</p>
           <p class="p-3 bg-light border rounded border-primary">Email: <a href="mailto:${eng.getEmail()}">${eng.getEmail()}</a></p>
-          <p class="p-3 bg-light border rounded border-primary">GitHub: <a href="https://github.com/${eng.getGitHub()}" target="_blank">${eng.getGitHub()}</a>
+          <p class="p-3 bg-light border rounded border-primary">GitHub: <a href="https://github.com/${eng.getGithub()}" target="_blank">${eng.getGithub()}</a>
           </p>
         </div>
       </div>
