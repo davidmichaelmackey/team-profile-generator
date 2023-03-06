@@ -35,9 +35,8 @@ Follow these commands to run the command line application:
     npm start
 
 ## Usage
-
-  ![Usage](assets/images/screenshot.png)
   
+
 
 ## Credits
 
