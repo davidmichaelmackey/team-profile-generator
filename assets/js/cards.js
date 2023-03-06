@@ -25,7 +25,7 @@ const generateTeam = (team) => {
       <div class="p-3 m-5 card shadow bg-white border border-2 border-primary" style="width: 20vw;">
         <div class="card p-3 mb-3 bg-primary bg-opacity-0 text-white border border-primary">
           <h2 class="display-5 text-center">${eng.getName()}</h2>
-          <h3 class="text-black text-center"><i class="fa-solid fa-keyboard"></i> ${eng.getRole()}</h3>
+          <h3 class="text-black text-center"><i class="fa-solid fa-keyboard m-2"></i> ${eng.getRole()}</h3>
         </div>
         <div class="card-body">
           <p class="p-3 bg-light border rounded border-primary">ID: ${eng.getId()}</p>
