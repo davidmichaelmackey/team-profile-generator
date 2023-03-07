@@ -4,7 +4,7 @@
 ## Badges
 
 <p align="center">
-<img src="https://img.shields.io/github/package-json/dependency-version/davidmichaelmackey/team-profile-generator/inquirer?color=CC3534&style=for-the-badge&logo=npm" alt="Inquirer Version" />
+<img src="https://img.shields.io/github/package-json/dependency-version/davidmichaelmackey/team-profile-generator/inquirer?color=BA261A&style=for-the-badge&logo=npm" alt="Inquirer Version" />
 <img src="https://img.shields.io/github/languages/count/davidmichaelmackey/team-profile-generator?color=FF9AA2&style=for-the-badge" alt="Languages" />
 <img src="https://img.shields.io/github/languages/top/davidmichaelmackey/team-profile-generator?color=FFB7B2&style=for-the-badge" alt="Top Language" />
 <img src="https://img.shields.io/github/languages/code-size/davidmichaelmackey/team-profile-generator?color=FFDAC1&style=for-the-badge" alt="Code Size" /><br>
@@ -64,8 +64,8 @@ Follow these commands to run the command line application:
       <img src="https://img.shields.io/badge/-Bootstrap-7254AD?style=for-the-badge"  alt="Bootstrap" />
       <img src="https://img.shields.io/badge/-JS-F6DD4A?style=for-the-badge"  alt="JS" />
       <img src="https://img.shields.io/badge/-NodeJS-89B537?style=for-the-badge"  alt="NodeJS" />
-      <img src="https://img.shields.io/badge/-NPM-B52619?style=for-the-badge"  alt="NPM" />
-      <img src="https://img.shields.io/badge/-Inquirer-EBDC68?style=for-the-badge"  alt="Inquirer" />
+      <img src="https://img.shields.io/badge/-NPM-BA261A?style=for-the-badge"  alt="NPM" />
+      <img src="https://img.shields.io/badge/-Inquirer-BA261A?style=for-the-badge"  alt="Inquirer" />
       <img src="https://img.shields.io/badge/-Jest-5ABF3C?style=for-the-badge"  alt="Jest" />
       
 </p>
