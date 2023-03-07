@@ -60,13 +60,13 @@ Follow these commands to run the command line application:
 ## Toolset
 
 <p align="center"><img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge"  alt="HTML" />
-      <img src="https://img.shields.io/badge/-Font Awesome-C4C6D0?style=for-the-badge"  alt="Font Awesome" />
+      <img src="https://img.shields.io/badge/-Font Awesome-1E3050?style=for-the-badge"  alt="Font Awesome" />
       <img src="https://img.shields.io/badge/-Bootstrap-7254AD?style=for-the-badge"  alt="Bootstrap" />
       <img src="https://img.shields.io/badge/-JS-F6DD4A?style=for-the-badge"  alt="JS" />
       <img src="https://img.shields.io/badge/-NodeJS-89B537?style=for-the-badge"  alt="NodeJS" />
       <img src="https://img.shields.io/badge/-NPM-BA261A?style=for-the-badge"  alt="NPM" />
       <img src="https://img.shields.io/badge/-Inquirer-BA261A?style=for-the-badge"  alt="Inquirer" />
-      <img src="https://img.shields.io/badge/-Jest-5ABF3C?style=for-the-badge"  alt="Jest" />
+      <img src="https://img.shields.io/badge/-Jest-BA261A?style=for-the-badge"  alt="Jest" />
       
 </p>
 
