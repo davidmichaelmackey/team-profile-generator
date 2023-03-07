@@ -65,7 +65,7 @@ Follow these commands to run the command line application:
       <img src="https://img.shields.io/badge/-JS-F6DD4A?style=for-the-badge"  alt="JS" />
       <img src="https://img.shields.io/badge/-NodeJS-89B537?style=for-the-badge"  alt="NodeJS" />
       <img src="https://img.shields.io/badge/-NPM-BA261A?style=for-the-badge"  alt="NPM" />
-      <img src="https://img.shields.io/badge/-Inquirer-4E8AC6?style=for-the-badge"  alt="Inquirer" />
+      <img src="https://img.shields.io/badge/-Inquirer-2C67F6?style=for-the-badge"  alt="Inquirer" />
       <img src="https://img.shields.io/badge/-Jest-BEA93B?style=for-the-badge"  alt="Jest" />
       
 </p>
