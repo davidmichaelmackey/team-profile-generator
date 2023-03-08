@@ -1,3 +1,4 @@
+// contains array of questions to prompt user to enter info about a manager
 const managerQuestions = [
   {
     name: "name",
@@ -20,7 +21,7 @@ const managerQuestions = [
     message: "Enter office number: ",
   },
 ];
-
+// contains array of questions to prompt user to enter info about an engineer
 const engineerQuestions = [
   {
     name: "name",
@@ -43,7 +44,7 @@ const engineerQuestions = [
     message: "Enter engineer github: ",
   },
 ];
-
+// contains array of questions to prompt user to enter info about an intern
 const internQuestions = [
   {
     name: "name",
@@ -66,7 +67,7 @@ const internQuestions = [
     message: "Enter intern school: ",
   },
 ];
-
+// contains list of choices to prompt the user to select which type of employee they would like to add to their team
 const teamBuild = [
   {
     name: "addMember",
@@ -76,7 +77,8 @@ const teamBuild = [
     default: "Done",
   },
 ];
-
+// this module exports 4 arrays
+// setting them as properties of a single object
 module.exports = {
   managerQuestions,
   engineerQuestions,
