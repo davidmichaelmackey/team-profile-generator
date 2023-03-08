@@ -68,7 +68,7 @@ const app = {
     function writeToFile(fileName, data) {
       return fs.writeFileSync(path.join(process.cwd(), fileName), data);
     }
-    writeToFile("./dist/team.html", generateTeam(teamArray));
+    writeToFile("./output/team.html", generateTeam(teamArray));
     console.log(`
       Team profile generated!
       `);
