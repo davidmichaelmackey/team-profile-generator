@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+- [Links](#links)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,6 +25,15 @@
 - [Contribute](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Links
+
+### Repository
+[GitHub Repository](https://github.com/davidmichaelmackey/team-profile-generator)<br>
+### Deployment
+[GitHub Deployment README](https://davidmichaelmackey.github.io/team-profile-generator/)
+### Video
+[Walkthrough Video](https://www.loom.com/share/0ccc1dc8d1bc407e8d23f3fa7dcebce8)
 
 ## Description
 This is an application that generates HTML files using input from a command-line interface. The application gather information about a team or organization, along with being able to add as many team members as you want.
