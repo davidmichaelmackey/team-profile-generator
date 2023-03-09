@@ -69,7 +69,8 @@ Follow these commands to run the command line application:
 
 ## Toolset
 
-<p align="center"><img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge"  alt="HTML" />
+<p align="center">
+      <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge"  alt="HTML" />
       <img src="https://img.shields.io/badge/-Font Awesome-1E3050?style=for-the-badge"  alt="Font Awesome" />
       <img src="https://img.shields.io/badge/-Bootstrap-7254AD?style=for-the-badge"  alt="Bootstrap" />
       <img src="https://img.shields.io/badge/-JS-F6DD4A?style=for-the-badge"  alt="JS" />
